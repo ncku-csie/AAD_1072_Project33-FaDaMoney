@@ -43,7 +43,8 @@
 看看競選高雄市長需要什麼東西吧，齊全後便可競選來獲得新職位。
 ![image](https://github.com/andy010725/FaDaMoney/blob/master/readpic/8.gif)
 
-
+## Demo影片
+https://drive.google.com/file/d/1CK4fp3jP7oV57yqwXUgIVlSTh9wSluwK/view?fbclid=IwAR1geZwdtZBtCs164goc_Y0EKDVxleqQC2qJaKRa5OXpUZ3ymt5cjPFzyBw
 
 ------------------------------------------------------------------------------------------------------------------------
 ## 使用到的技巧
